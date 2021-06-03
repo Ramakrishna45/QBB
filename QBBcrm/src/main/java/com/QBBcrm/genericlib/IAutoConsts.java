@@ -5,7 +5,7 @@ public interface IAutoConsts {
 	String EXCEL_PATH= "C:\\Users\\P Ramakrishna\\git\\repository2\\QBBcrm\\src\\test\\resources\\Data\\New Microsoft Excel Worksheet.xlsx";
 	
 	String CHROME_KEY= "webdriver.chrome.driver";
-	String CHROME_VALUE= "C:\\Users\\P Ramakrishna\\git\\repository2\\QBBcrm\\src\\main\\resources\\Drivers\\chromedriver_ hold.exe";
+	String CHROME_VALUE= "C:\\Users\\P Ramakrishna\\git\\repository2\\QBBcrm\\src\\main\\resources\\Drivers\\chromedriver.exe";
 	
 	String GECKO_KEY= "webdriver.gecko.driver";
 	String GECKO_VALUE= "C:\\Users\\P Ramakrishna\\git\\repository2\\QBBcrm\\src\\main\\resources\\Drivers\\geckodriver.exe";
